@@ -1,0 +1,4 @@
+ollama
+ddgs
+fastapi
+uvicorn[standard]
